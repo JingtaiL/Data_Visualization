@@ -1,2 +1,2 @@
 # Figures
-A collection of figures I made for research or for fun
+A collection of figures I made for research and for fun.
